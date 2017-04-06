@@ -1,0 +1,25 @@
+{
+  "name": "elm-feature-interest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "elm-publish": "elm-package publish",
+    "elm-make": "elm-make",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoRedInk/feature-interest.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/NoRedInk/feature-interest/issues"
+  },
+  "homepage": "https://github.com/NoRedInk/feature-interest#readme",
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-live": "^2.7.4"
+  }
+}
